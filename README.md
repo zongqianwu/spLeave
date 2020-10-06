@@ -1,1 +1,3 @@
-# spLeave-
+# spLeave
+
+Leave under special circumstances
